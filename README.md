@@ -50,4 +50,4 @@ No additional installation is required.
 
 Built as a personal learning project to explore web development and create something useful for students.## 📸 Preview
 
-![StudyMate Dashboard](screenshot.png)
+![StudyMate Dashboard](screenshot.jpj)
